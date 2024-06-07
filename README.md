@@ -1,5 +1,7 @@
 # OpenGL-Draw-Circle
+
 OpenGL GLFW GLAD GLM, Draw circle
+
 ![演示结果](https://github.com/inulloo/OpenGL-Draw-Circle/blob/main/demo.png)
 
 你需要先搭建开发环境，准备好 GLAD、GLFW 和 GLM，并通过 cmake 生成项目，然后用 Visual Studio 编译出 LIB，并且设置好相关 INCLUDE 和 LIB 的目录，才能顺利编译。
