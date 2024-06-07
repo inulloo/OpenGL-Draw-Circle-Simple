@@ -1,4 +1,4 @@
-# OpenGL-Draw-Circle
+# OpenGL-Draw-Circle-simple
 
 OpenGL GLFW GLAD GLM, Draw circle
 
